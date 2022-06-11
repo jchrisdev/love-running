@@ -69,6 +69,7 @@ h1, h2 {
 }
 #cover-text, #cover-text h2 {
     color: #fff;
+    text-align: left;
 
 }
 
